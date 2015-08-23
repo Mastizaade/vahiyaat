@@ -5,3 +5,12 @@
 .DS_Store
 /build
 /captures
+.idea/
+target/
+tokens/
+TAGS
+lib_managed/
+.cache
+.classpath
+.project
+.settings/
