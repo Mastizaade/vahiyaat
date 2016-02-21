@@ -5,12 +5,11 @@
 .DS_Store
 /build
 /captures
-.idea/
-target/
-tokens/
-TAGS
+/.idea
+/gradle
 lib_managed/
 .cache
 .classpath
 .project
 .settings/
+*.class
